@@ -1,0 +1,15 @@
+{
+    "name": "Espeon",
+    "description": "By reading air currents, it can predict things such as the weather or its foe’s next move.",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/196.png",
+    "attributes": [
+        {
+            "trait-type": "Type",
+            "value": "Psychic"
+        },
+        {
+            "trait-type": "Color",
+            "value": "Shiny"
+        }
+    ]
+}

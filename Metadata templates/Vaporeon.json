@@ -1,0 +1,15 @@
+{
+    "name": "Vaporeon",
+    "description": "When Vaporeon’s fins begin to vibrate, it is a sign that rain will come within a few hours.",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/134.png",
+    "attributes": [
+        {
+            "trait-type": "Type",
+            "value": "water"
+        },
+        {
+            "trait-type": "Color",
+            "value": "Shiny"
+        }
+    ]
+}

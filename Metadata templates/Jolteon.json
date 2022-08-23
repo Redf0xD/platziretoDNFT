@@ -1,0 +1,15 @@
+{
+    "name": "Jolteon",
+    "description": "If it is angered or startled, the fur all over its body bristles like sharp needles that pierce foes.",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/135.png",
+    "attributes": [
+        {
+            "trait-type": "Type",
+            "value": "Electric"
+        },
+        {
+            "trait-type": "Color",
+            "value": "Shiny"
+        }
+    ]
+}

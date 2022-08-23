@@ -1,0 +1,15 @@
+{
+    "name": "Flareon",
+    "description": "Once it has stored up enough heat, this Pokémon’s body temperature can reach up to 1,700 degrees Fahrenheit.",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/136.png",
+    "attributes": [
+        {
+            "trait-type": "Type",
+            "value": "Fire"
+        },
+        {
+            "trait-type": "Color",
+            "value": "Shiny"
+        }
+    ]
+}

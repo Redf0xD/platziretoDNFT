@@ -1,0 +1,15 @@
+{
+    "name": "Eevee",
+    "description": "It has the ability to alter the composition of its body to suit its surrounding environment",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/133.png",
+    "attributes": [
+        {
+            "trait-type": "Type",
+            "value": "normal"
+        },
+        {
+            "trait-type": "Color",
+            "value": "Shiny"
+        }
+    ]
+}
